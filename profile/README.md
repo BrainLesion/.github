@@ -11,7 +11,7 @@ The toolkit offers a range of modules to support various tasks throughout the an
 <br>Adaptable preprocessing pipeline that performs co-registration, atlas registration, and optional skull-stripping and defacing on arbitrary multi-modal 3D brain MRI. 
 
 [**BraTS**](https://github.com/BrainLesion/BraTS#brats)
-<br>BrainLes provides top-performing algorithms from the Brain Tumor Segmentation (BraTS) challenges to synthesize missing modalities, inpaint lesions, and create tumor segmentations. It includes specific algorithms regarding various pathologies. 
+<br>Top-performing algorithms from the Brain Tumor Segmentation (BraTS) challenges to synthesize missing modalities, inpaint lesions, and create tumor segmentations. It includes specific algorithms regarding various pathologies. 
 
 [**AURORA**](https://github.com/BrainLesion/AURORA#aurora) 
 <br>Deep learning models for brain cancer metastasis segmentation.
