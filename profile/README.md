@@ -72,7 +72,7 @@ Each module comes with its own README and documentation. For complete usage exam
 ## 🧬 Citing BrainLesion Suite
 
 > [!IMPORTANT]
-> If you use `brainles-preprocessing` in your research, please cite it to support the development!
+> If you use any module of the BrainLesion Suite, including `brainles-preprocessing`, in your research, please cite the suite to support its development!
 
 Kofler, F., Rosier, M., Astaraki, M., Möller, H., Mekki, I. I., Buchner, J. A., Schmick, A., Pfiffer, A., Oswald, E., Zimmer, L., Rosa, E. de la, Pati, S., Canisius, J., Piffer, A., Baid, U., Valizadeh, M., Linardos, A., Peeken, J. C., Shit, S., … Menze, B. (2025). *BrainLesion Suite: A Flexible and User-Friendly Framework for Modular Brain Lesion Image Analysis* [arXiv preprint arXiv:2507.09036](https://doi.org/10.48550/arXiv.2507.09036)
 
