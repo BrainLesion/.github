@@ -81,7 +81,7 @@ Kofler, F., Rosier, M., Astaraki, M., Möller, H., Mekki, I. I., Buchner, J. A.,
 ```
 @misc{kofler2025brainlesionsuiteflexibleuserfriendly,
       title={BrainLesion Suite: A Flexible and User-Friendly Framework for Modular Brain Lesion Image Analysis}, 
-      author={Florian Kofler and Marcel Rosier and Mehdi Astaraki and Hendrik Möller and Ilhem Isra Mekki and Josef A. Buchner and Anton Schmick and Arianna Pfiffer and Eva Oswald and Lucas Zimmer and Ezequiel de la Rosa and Sarthak Pati and Julian Canisius and Arianna Piffer and Ujjwal Baid and Mahyar Valizadeh and Akis Linardos and Jan C. Peeken and Surprosanna Shit and Felix Steinbauer and Daniel Rueckert and Rolf Heckemann and Spyridon Bakas and Jan Kirschke and Constantin von See and Ivan Ezhov and Marie Piraud and Benedikt Wiestler and Bjoern Menze},
+      author={Florian Kofler and Marcel Rosier and Mehdi Astaraki and Hendrik Möller and Ilhem Isra Mekki and Josef A. Buchner and Anton Schmick and Arianna Pfiffer and Eva Oswald and Lucas Zimmer and Ezequiel de la Rosa and Sarthak Pati and Julian Canisius and Arianna Piffer and Ujjwal Baid and Mahyar Valizadeh and Akis Linardos and Jan C. Peeken and Suprosanna Shit and Felix Steinbauer and Daniel Rueckert and Rolf Heckemann and Spyridon Bakas and Jan Kirschke and Constantin von See and Ivan Ezhov and Marie Piraud and Benedikt Wiestler and Bjoern Menze},
       year={2025},
       eprint={2507.09036},
       archivePrefix={arXiv},
