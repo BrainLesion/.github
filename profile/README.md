@@ -1,7 +1,7 @@
-first-readme
 # 🧠 BrainLesion Suite
 
-**BrainLesion Suite (BLS)** is a modular and open-source framework for brain lesion image analysis in Python. Developed by an international consortium of researchers, BLS enables efficient, reproducible, and customizable pipelines for processing and analyzing multi-modal brain MRI data.
+**BrainLesion Suite (BLS)** is a modular and open-source framework for brain lesion image analysis in Python.
+Developed by an international consortium of researchers, BLS enables efficient, reproducible, and customizable pipelines for processing and analyzing multi-modal brain image data.
 
 Whether you're a radiologist, researcher, data scientist, or clinician, BLS empowers you to build robust workflows from raw data organization to segmentation, synthesis, and evaluation.
 
