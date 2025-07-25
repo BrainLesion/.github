@@ -22,7 +22,7 @@ Whether you're a radiologist, researcher, data scientist, or clinician, **BLS** 
 
 ## 🧩 Core Modules
 
-> ⚠️ **Note**: The list below highlights key modules but may not always reflect the latest additions. Inspect the repositories of the  [BrainLesion GitHub organization](https://github.com/BrainLesion) for the full and most recent overview.
+> ⚠️ **Note**: The list below highlights key modules but may not always reflect the latest additions. Inspect the repositories of the  [BrainLesion GitHub organization](https://github.com/BrainLesion) to get a full overview.
 
 | Module | Description |
 |--------|-------------|
