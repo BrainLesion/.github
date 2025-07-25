@@ -1,9 +1,9 @@
 # 🧠 BrainLesion Suite
 
 **BrainLesion Suite (BLS)** is a modular and open-source framework for brain lesion image analysis in Python.
-Developed by an international consortium of researchers, BLS enables efficient, reproducible, and customizable pipelines for processing and analyzing multi-modal brain image data.
+Developed by an international consortium of researchers, **BLS** enables efficient, reproducible, and customizable pipelines for processing and analyzing multi-modal brain image data.
 
-Whether you're a radiologist, researcher, data scientist, or clinician, BLS empowers you to build robust workflows from raw data organization to segmentation, synthesis, and evaluation.
+Whether you're a radiologist, researcher, data scientist, or clinician, **BLS** empowers you to build robust workflows from raw data organization to segmentation, synthesis, and evaluation.
 
 > 🔬 Designed for flexibility. Built for science. Made for brains.
 
@@ -22,7 +22,7 @@ Whether you're a radiologist, researcher, data scientist, or clinician, BLS empo
 
 ## 🧩 Core Modules
 
-> ⚠️ **Note**: The list below highlights key modules but may not always reflect the latest additions. Visit the [BrainLesion GitHub organization](https://github.com/BrainLesion) for the full and most recent overview.
+> ⚠️ **Note**: The list below highlights key modules but may not always reflect the latest additions. Inspect the repositories of the  [BrainLesion GitHub organization](https://github.com/BrainLesion) to get a full overview.
 
 | Module | Description |
 |--------|-------------|
@@ -40,14 +40,11 @@ Whether you're a radiologist, researcher, data scientist, or clinician, BLS empo
 
 ## 💡 Submit Your Module or Project
 
-BLS is a community-driven initiative.
+**BLS** is a community-driven initiative.
 
-We actively invite **external researchers and developers** to contribute their own tools, models, or processing pipelines as part of the BLS ecosystem. If you have a brain imaging tool you'd like to share, we encourage you to:
+We actively invite **external researchers and developers** to contribute their own tools, models, or processing pipelines as part of the BLS ecosystem. If you have a brain imaging tool you'd like to share, we encourage you to contact our maintainers directly to discuss.
 
-1. Open an issue on our [main GitHub organization page](https://github.com/BrainLesion),
-2. Or contact the maintainers directly.
-
-Together, we can build a unified infrastructure for reproducible and modular brain lesion analysis.
+Together, we can build a unified infrastructure for reproducible and modular brain image analysis.
 
 ---
 
@@ -73,7 +70,7 @@ Each module comes with its own README and documentation. For complete usage exam
 ## 🧬 Citing BrainLesion Suite
 
 > [!IMPORTANT]
-> If you use any module of the BrainLesion Suite, including `brainles-preprocessing`, in your research, please cite the suite to support its development!
+> If you use any module of the BrainLesion Suite in your research, please cite the suite's manuscript to support our development!
 
 Kofler, F., Rosier, M., Astaraki, M., Möller, H., Mekki, I. I., Buchner, J. A., Schmick, A., Pfiffer, A., Oswald, E., Zimmer, L., Rosa, E. de la, Pati, S., Canisius, J., Piffer, A., Baid, U., Valizadeh, M., Linardos, A., Peeken, J. C., Shit, S., … Menze, B. (2025). *BrainLesion Suite: A Flexible and User-Friendly Framework for Modular Brain Lesion Image Analysis* [arXiv preprint arXiv:2507.09036](https://doi.org/10.48550/arXiv.2507.09036)
 
