@@ -116,9 +116,10 @@ Kofler, F., Rosier, M., Astaraki, M., Möller, H., Mekki, I. I., Buchner, J. A.,
 }
 ```
 
-## 🤝 Contributing
 
-We welcome contributions! Please check the contributing guidelines in each repository and feel free to open issues or pull requests.
+## 🤝 Maintainers & Contributing
+
+**BLS** is maintained by **[koflerlab](https://github.com/koflerlab)** at the Hertie Institute for AI in Brain Health, University of Tübingen, together with contributors from our international consortium. The lab coordinates development, reviews contributions, and keeps the suite's modules working together. We welcome contributions! Please check the contributing guidelines in each repository and feel free to open issues or pull requests. If you'd like to contribute a whole module or have questions about the suite, reach out to the maintainers.
 
 ---
 
