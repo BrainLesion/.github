@@ -63,6 +63,7 @@ Whether you're a radiologist, researcher, data scientist, or clinician, **BLS** 
 | [`PeTu`](https://github.com/BrainLesion/PeTu) | Pediatric tumor segmentation with 3D nnU-Net models |
 | [`deep_quality_estimation`](https://github.com/BrainLesion/deep_quality_estimation) | Predicts segmentation quality with DL-based human surrogate models |
 | [`panoptica`](https://github.com/BrainLesion/panoptica) | Instance-level segmentation evaluation framework |
+| [`PredictGBM`](https://github.com/BrainLesion/PredictGBM) | Glioma growth model evaluation framework |
 | [`tutorials`](https://github.com/BrainLesion/tutorials) | End-to-end pipelines and example notebooks for common use cases |
 
 ---
